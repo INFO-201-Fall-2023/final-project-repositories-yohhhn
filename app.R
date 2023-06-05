@@ -41,7 +41,6 @@ ui <- shinyUI(
              fluidPage(
                sidebarLayout(
                  sidebarPanel(
-                   # Add any inputs or controls specific to Data Story 1
                  ),
                  mainPanel(
                    h2("Exploring Overall Happiness Scores"),
@@ -65,7 +64,6 @@ ui <- shinyUI(
              fluidPage(
                sidebarLayout(
                  sidebarPanel(
-                   # Add any inputs or controls specific to Data Story 2
                  ),
                  mainPanel(
                    h2("Examining Happiness Factors"),
@@ -86,7 +84,6 @@ ui <- shinyUI(
              fluidPage(
                sidebarLayout(
                  sidebarPanel(
-                   # Add any inputs or controls specific to Data Story 3
                  ),
                  mainPanel(
                    h2("How Education Affects Quality of Life"),
@@ -109,7 +106,6 @@ ui <- shinyUI(
              fluidPage(
                sidebarLayout(
                  sidebarPanel(
-                   # Add any inputs or controls specific to the Summary page
                  ),
                  mainPanel(
                    h2("Project Summary"),
